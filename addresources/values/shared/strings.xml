@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sr7_name" translatable="false">sr7</string>
+    <string name="sr7_title_settings">sr7 settings</string>
+    <string name="sr7_title_sr7_patches">sr7 Patches</string>
+</resources>

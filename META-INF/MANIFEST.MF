@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Name: SR7
+Description: Morphe patches focused on Twitter/X
+Version: 3.9.0-dev.9
+Timestamp: 1786938166368
+Author: crimera
+Contact: na
+Website: https://alexsifatrayhan.github.io/sr7mods-store/
+License: GNU General Public License v3.0
+Patcher-Version: 1.6.0
+

@@ -11,7 +11,7 @@
 
 Use the deep link to add Piko as a patch source in Morphe Manager:
 
-[➕ Add Piko to Morphe](https://morphe.software/add-source?github=sr7mods-assistant/SR7-IG-X-Enhancer/)
+[➕ Add SR7 Patch to Morphe](https://morphe.software/add-source?github=sr7mods-assistant/SR7-IG-X-Enhancer/)
 
 Then patch Twitter/X or Instagram:
 1. Tap X or Instagram app icon in Morphe
